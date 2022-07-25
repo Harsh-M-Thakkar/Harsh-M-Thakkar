@@ -1,6 +1,7 @@
 ![MasterHead](https://cait.engineering.columbia.edu/sites/default/files/styles/cu_crop/public/private/AI%20Banner.png?itok=-zAaDDIN)
 <h1 align="center">Hi 👋, I'm Harsh Thakkar</h1>
-<h3 align="center">Student Of Data Science</h3>
+<h3 align="center">Student Of Business intelligence and analytics</h3>
+<br/>
 <image align="right" alt="Coding" width ="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 🌱 I’m currently learning **Data Science**
@@ -9,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Data Science** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: harsh.study164@gmail.com</h3>
 <p align="left">
 </p>
 
