@@ -1,4 +1,4 @@
-![MasterHead](Frame 1.png)
+![MasterHead]([Frame 1.png](https://github.com/Harsh-M-Thakkar/image_path/blob/master/Frame%201.png))
 <h1 align="center">Hi 👋, I'm Harsh Thakkar</h1>
 <h3 align="center">Student Of Business intelligence and analytics</h3>
 <br/>
