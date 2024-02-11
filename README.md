@@ -1,4 +1,4 @@
-![MasterHead](https://cait.engineering.columbia.edu/sites/default/files/styles/cu_crop/public/private/AI%20Banner.png?itok=-zAaDDIN)
+![MasterHead](Frame 1.png)
 <h1 align="center">Hi 👋, I'm Harsh Thakkar</h1>
 <h3 align="center">Student Of Business intelligence and analytics</h3>
 <br/>
